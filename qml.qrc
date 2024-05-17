@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Bihar_Map.qml</file>
+        <file>DashBoard.qml</file>
+        <file>Jharkhand_Map.qml</file>
+        <file>Andhra_Pradesh.qml</file>
+        <file>Uttar_Pradesh.qml</file>
+        <file>Karnataka.qml</file>
+        <file>West_Bengal.qml</file>
+    </qresource>
+</RCC>

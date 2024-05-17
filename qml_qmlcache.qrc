@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">main.qml</file>
+        <file alias="Bihar_Map.qml">Bihar_Map.qml</file>
+        <file alias="DashBoard.qml">DashBoard.qml</file>
+        <file alias="Jharkhand_Map.qml">Jharkhand_Map.qml</file>
+        <file alias="Andhra_Pradesh.qml">Andhra_Pradesh.qml</file>
+        <file alias="Uttar_Pradesh.qml">Uttar_Pradesh.qml</file>
+        <file alias="Karnataka.qml">Karnataka.qml</file>
+        <file alias="West_Bengal.qml">West_Bengal.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Maps">
+        <file>bihar-district-map-in-hindi.jpg</file>
+        <file>Jharkhand-map.jpg</file>
+        <file>Andhra_Pradesh_Map.jpg</file>
+        <file>Uttar-pradesh-map.jpg</file>
+        <file>Karnataka-Map.jpg</file>
+        <file>west-bengal-map.jpg</file>
+        <file>India-Satellite-Map.jpg</file>
+        <file>India_Map_3D.jpg</file>
+    </qresource>
+</RCC>
